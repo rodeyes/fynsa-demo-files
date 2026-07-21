@@ -1,0 +1,46 @@
+{
+  "folder": "Conciliaciones Demo",
+  "notice": "Todos los datos y archivos son ficticios.",
+  "files": [
+    {
+      "id": "demo-001",
+      "name": "conciliacion_cartera_2026-06.xlsx",
+      "fileType": "xlsx",
+      "period": "2026-06",
+      "modifiedDate": "2026-07-02",
+      "status": "Disponible",
+      "source": "Operaciones",
+      "observation": "Archivo ficticio para demostración."
+    },
+    {
+      "id": "demo-002",
+      "name": "control_saldos_2026-06.xlsx",
+      "fileType": "xlsx",
+      "period": "2026-06",
+      "modifiedDate": "2026-07-03",
+      "status": "Disponible",
+      "source": "Contabilidad",
+      "observation": "Archivo ficticio para control de saldos."
+    },
+    {
+      "id": "demo-003",
+      "name": "diferencias_operativas_2026-06.csv",
+      "fileType": "csv",
+      "period": "2026-06",
+      "modifiedDate": "2026-07-04",
+      "status": "Requiere validación",
+      "source": "Control Operativo",
+      "observation": "Contiene diferencias ficticias pendientes de revisión."
+    },
+    {
+      "id": "demo-004",
+      "name": "conciliacion_cartera_2026-05.xlsx",
+      "fileType": "xlsx",
+      "period": "2026-05",
+      "modifiedDate": "2026-06-03",
+      "status": "Disponible",
+      "source": "Operaciones",
+      "observation": "Archivo ficticio del período anterior."
+    }
+  ]
+}
