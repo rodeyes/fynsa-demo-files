@@ -1,0 +1,68 @@
+{
+  "fileId": "demo-001",
+  "fileName": "conciliacion_cartera_2026-06.xlsx",
+  "currency": "CLP",
+  "recordCount": 6,
+  "records": [
+    {
+      "recordId": "REG-001",
+      "date": "2026-06-02",
+      "account": "CTA-SINT-001",
+      "source1Amount": 1250000,
+      "source2Amount": 1250000,
+      "difference": 0,
+      "status": "Coincide",
+      "observation": "Sin diferencia"
+    },
+    {
+      "recordId": "REG-002",
+      "date": "2026-06-03",
+      "account": "CTA-SINT-002",
+      "source1Amount": 980000,
+      "source2Amount": 975000,
+      "difference": 5000,
+      "status": "Requiere validación",
+      "observation": "Diferencia ficticia"
+    },
+    {
+      "recordId": "REG-003",
+      "date": "2026-06-04",
+      "account": "CTA-SINT-003",
+      "source1Amount": 2100000,
+      "source2Amount": 2080000,
+      "difference": 20000,
+      "status": "Requiere validación",
+      "observation": "Diferencia ficticia superior al umbral de demostración"
+    },
+    {
+      "recordId": "REG-004",
+      "date": "2026-06-05",
+      "account": "CTA-SINT-004",
+      "source1Amount": 750000,
+      "source2Amount": 750000,
+      "difference": 0,
+      "status": "Coincide",
+      "observation": "Sin diferencia"
+    },
+    {
+      "recordId": "REG-005",
+      "date": "2026-06-06",
+      "account": "CTA-SINT-005",
+      "source1Amount": 4300000,
+      "source2Amount": 4290000,
+      "difference": 10000,
+      "status": "Requiere validación",
+      "observation": "Diferencia ficticia"
+    },
+    {
+      "recordId": "REG-006",
+      "date": "2026-06-07",
+      "account": "CTA-SINT-006",
+      "source1Amount": 1500000,
+      "source2Amount": 1500000,
+      "difference": 0,
+      "status": "Coincide",
+      "observation": "Sin diferencia"
+    }
+  ]
+}
